@@ -1,0 +1,3 @@
+[submodule "EthMiningFetcher"]
+	path = EthMiningFetcher
+	url = https://github.com/Verbalinsurection/EthMiningFetcher
